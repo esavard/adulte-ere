@@ -1,0 +1,8 @@
+extends: default
+
+heading-h2:
+    text-align: center
+
+verse:
+  border-color: #FFFFFF
+  padding: 30
