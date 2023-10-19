@@ -2,7 +2,7 @@ FROM asciidoctor/docker-asciidoctor
 
 CMD ["/bin/sh", "-c", "\
 if [ \"$OUTPUT_FORMAT\" = \"pdf\" ]; then \
-  asciidoctor-pdf -vwt -o output/mybook.pdf master.adoc; \
+  asciidoctor-pdf -a compress -vwt -o output/mybook.pdf master.adoc; \
 elif [ \"$OUTPUT_FORMAT\" = \"epub\" ]; then \
   asciidoctor-epub3 -vwt -o output/mybook.epub master.adoc; \
 elif [ \"$OUTPUT_FORMAT\" = \"html\" ]; then \

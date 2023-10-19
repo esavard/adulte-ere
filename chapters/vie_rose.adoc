@@ -1,1 +1,7 @@
 == La vie d'une rose
+
+[verse]
+____
+
+----
+

@@ -1,5 +1,7 @@
 == Préface
 
+[verse]
+____
 À vos yeux critiques, j’expose mon âme
 Souhaitant que ces pages sauront vous atteindre.
 Au dessus de moi, s’élève la scintillante lame
@@ -24,3 +26,4 @@ Attention, cher lecteur, car votre langue tranchante,
 A le pouvoir de transpercer mon âme dénudée.
 Un simple sarcasme pourrait au sol me jeter
 Me transformant en une bête rampante.
+____

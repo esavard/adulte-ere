@@ -7,3 +7,4 @@ _build
 .idea/**/dictionaries
 .idea/**/shelf
 .idea/sonarlint/
+/chapters/*.pdf
