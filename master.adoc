@@ -3,7 +3,6 @@
 :doctype: book
 :toc:
 :toc-title: Table des matières
-:data-uri:
 :lang: fr-CA
 
 [preface]
