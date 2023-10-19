@@ -1,42 +1,92 @@
-= eBook Template
-:author: Bruno Rocha
-:email: email@server.com
-:revnumber: 1.0
-:revdate: January 1st, 2021
+= L'adulte ère
+:author: Paul Vardas
 :doctype: book
 :toc:
-:icons: font
+:toc-title: Table des matières
 :data-uri:
-:lang: en
-:language: python
+:lang: fr-CA
 
 [preface]
-include::chapters/about.adoc[]
-
 include::chapters/preface.adoc[]
 
-== Introduction
+include::chapters/solitaire.adoc[]
 
-include::chapters/introduction.adoc[]
+include::chapters/elle.adoc[]
 
-== First Part
+include::chapters/temps.adoc[]
 
-include::chapters/chapter2.adoc[]
+include::chapters/éternité.adoc[]
 
-== Second Part
+include::chapters/animal_sauvage.adoc[]
 
-include::chapters/chapter3.adoc[]
+include::chapters/navigateur.adoc[]
 
-[colophon]
-include::chapters/colophon.adoc[]
+include::chapters/prison_de_ténèbres.adoc[]
 
-include::chapters/bibliography.adoc[]
+include::chapters/baiser.adoc[]
 
-[appendix]
-include::chapters/appendix.adoc[]
+include::chapters/souverain_exilé.adoc[]
 
-ifdef::backend-docbook[]
-[index]
-== Index
-endif::backend-docbook[]
+include::chapters/jour_de_néant.adoc[]
 
+include::chapters/automne.adoc[]
+
+include::chapters/générations.adoc[]
+
+include::chapters/dénoncés.adoc[]
+
+include::chapters/prédateur_infatigable.adoc[]
+
+include::chapters/la_porte.adoc[]
+
+include::chapters/masque_pâle.adoc[]
+
+include::chapters/individuels.adoc[]
+
+include::chapters/amoureux_déchu.adoc[]
+
+include::chapters/tanit.adoc[]
+
+include::chapters/chagrins_refoulés.adoc[]
+
+include::chapters/sentence.adoc[]
+
+include::chapters/vigie_de_cartier.adoc[]
+
+include::chapters/cornichon_superficiel.adoc[]
+
+include::chapters/vie_rose.adoc[]
+
+include::chapters/purgatoire.adoc[]
+
+include::chapters/mort_du_poète.adoc[]
+
+include::chapters/équinoxe.adoc[]
+
+include::chapters/désir_funèbre.adoc[]
+
+include::chapters/âge.adoc[]
+
+include::chapters/cette_femme.adoc[]
+
+include::chapters/chanson_oublie.adoc[]
+
+include::chapters/danse_des_disparus.adoc[]
+
+include::chapters/étrangère.adoc[]
+
+include::chapters/donjon.adoc[]
+
+include::chapters/sommeil.adoc[]
+
+include::chapters/trompé.adoc[]
+
+include::chapters/la_voix.adoc[]
+
+include::chapters/abandonné.adoc[]
+
+include::chapters/norouet.adoc[]
+
+include::chapters/mon_père.adoc[]
+
+include::chapters/substance.adoc[]
