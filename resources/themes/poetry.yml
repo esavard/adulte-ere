@@ -1,5 +1,7 @@
 extends: default
 
+pdf-page-size: 6in x 9in
+
 heading-h2:
     text-align: center
 
