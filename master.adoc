@@ -4,7 +4,7 @@
 :toc:
 :toc-title: Table des matières
 :lang: fr-CA
-:pdf-page-size: 6in x 9in
+:pdf-page-size: 5.75in x 8.75in
 
 [preface]
 include::chapters/preface.adoc[]
