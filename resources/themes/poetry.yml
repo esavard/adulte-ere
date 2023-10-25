@@ -26,8 +26,8 @@ verse:
 #      bold_italic: notoserif-bold_italic-subset.ttf
 
 #base_font_family: DejaVuSerif
-base_font_size: 12
-base_font_size_small: 10
+base_font_size: 10
+base_font_size_small: 8
 
 page:
   background_color: ffffff

@@ -1,8 +1,6 @@
 = L'adulte ère
 :author: Paul Vardas
 :doctype: book
-:toc:
-:toc-title: Table des matières
 :lang: fr-CA
 :pdf-page-size: 5.75in x 8.75in
 
@@ -10,8 +8,6 @@
 include::chapters/preface.adoc[]
 
 include::chapters/solitaire.adoc[]
-
-include::chapters/elle.adoc[]
 
 include::chapters/temps.adoc[]
 
@@ -90,3 +86,6 @@ include::chapters/norouet.adoc[]
 include::chapters/mon_père.adoc[]
 
 include::chapters/substance.adoc[]
+
+:toc:
+:toc-title: Table des matières
