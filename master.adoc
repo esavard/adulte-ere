@@ -1,5 +1,5 @@
 = L'adulte ère
-:title: L'adulte ère
+:title: L'adulte ère : Passage poétique au large des rivages de la jeunesse vacillante
 :author: Paul Vardas
 :doctype: book
 :toc:
@@ -7,6 +7,8 @@
 :lang: fr-CA
 :pdf-page-size: 5.75in x 8.75in
 
+[%always]
+<<<
 [preface]
 include::chapters/preface.adoc[]
 
