@@ -37,6 +37,8 @@ page:
   margin_inner: 0.75in
   margin_outer: 0.60in
   #size: 6in x 9in
+  numbering:
+    start-at: after-toc
 
 title_page:
   align: right
@@ -82,4 +84,4 @@ footer:
     left:
       content: '{page-number}'
     right:
-      content: '{doctitle}'
+      content: '{chapter-title}'

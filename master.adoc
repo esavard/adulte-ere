@@ -2,15 +2,18 @@
 :title: L'adulte ère : Passage poétique au large des rivages de la jeunesse vacillante
 :author: Paul Vardas
 :doctype: book
-:toc:
+:toc: macro
 :toc-title: Table des matières
 :lang: fr-CA
 :pdf-page-size: 5.75in x 8.75in
 
-[%always]
-<<<
-[preface]
-include::chapters/preface.adoc[]
+== Dédidace
+include::dedidace.adoc[]
+
+== Avant-Propos
+include::avant-propos.adoc[]
+
+toc::[]
 
 include::chapters/solitaire.adoc[]
 
