@@ -7,13 +7,26 @@
 :lang: fr-CA
 :pdf-page-size: 5.75in x 8.75in
 
+[%notitle]
+== Mentions légales
+include::mentions_legales.adoc[]
+
 == Dédidace
 include::dedidace.adoc[]
 
-== Avant-Propos
-include::avant-propos.adoc[]
-
+[%always]
+<<<
+[%always]
+<<<
 toc::[]
+
+== Introduction
+include::introduction.adoc[]
+
+[%always]
+<<<
+[%always]
+<<<
 
 include::chapters/solitaire.adoc[]
 
