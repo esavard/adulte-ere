@@ -1,5 +1,5 @@
 = L'adulte ère
-:title: L'adulte ère : Passage poétique au large des rivages de la jeunesse vacillante
+:title: L'adulte ère : Recueil de vieilles poésies
 :author: Paul Vardas
 :doctype: book
 :toc: macro
