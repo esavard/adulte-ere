@@ -84,4 +84,4 @@ footer:
     left:
       content: '{page-number}'
     right:
-      content: '{chapter-title}'
+      content: '{doctitle}'

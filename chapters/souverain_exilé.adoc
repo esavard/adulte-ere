@@ -26,9 +26,10 @@ Suscite les moqueries de ceux qui,
 Dans leur cloaque venimeux,
 Ne voient même pas la grandeur de cœur
 De ce merveilleux souverain.
-
-
-
+____
+<<<
+[verse]
+____
 Mon ami, va par le monde, que d'autres,
 S'aperçoivent de ta chaleur
 Et oublient de juger avec leurs yeux,

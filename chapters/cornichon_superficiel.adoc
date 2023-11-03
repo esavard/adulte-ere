@@ -27,8 +27,10 @@ Mais  je me l'imagine, je me l'illustre,
 Et cette idée me pousse vers ce rivage.
 Tandis que tu voudrais que les gens s'intègrent
 À ton idiotie, à tes folies, à ta fierté démesurée.
-
-
+____
+<<<
+[verse]
+____
 Ne sais-tu pas encore
 Que pour sortir quelqu'un d'une mare de boue,
 Il faut plus que lui tendre la main en effort?

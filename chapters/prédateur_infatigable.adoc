@@ -27,8 +27,10 @@ Les lâches, tu les châties plus vite que leur cri,
 De ta faux, tu tranches le fil de leur vie.
 C'est pourquoi, je lutterai jusqu'à l'apogée:
 Je ne suis pas un lâche qui se contente de larmoyer
-
-
+____
+<<<
+[verse]
+____
 En attendant ton arrivée.
 Sans un cri, je quitterai cette vie,
 Et en silence, aussi,

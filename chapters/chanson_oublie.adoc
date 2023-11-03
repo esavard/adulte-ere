@@ -26,9 +26,10 @@ Ho non, je ne peux pas l'oublier
 Son souvenir me suit, je suis enchaîné.
 J'me demande ce que j'ai fait au ciel,
 Pour que tout me rappelle le temps passé avec elle.
-
-
-
+____
+<<<
+[verse]
+____
 L'autre jour, elle me téléphone,
 En me disant qu'elle s'ennuie de son homme.
 Je lui ai dit:

@@ -29,7 +29,10 @@ Leur origine au lieu de la bafouer.
 Ils vous élèvent de leurs paroles d'or,
 Au-dessus de cette mare grouillante
 Où il n'y a que sexe et violence.
-
+____
+<<<
+[verse]
+____
 Ils sont peu,
 Et c'est malheureux,
 À se battre pour vos yeux

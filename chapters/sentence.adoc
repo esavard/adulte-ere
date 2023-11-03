@@ -26,9 +26,10 @@ Aujourd'hui, tu quittes mon âme, mon esprit,
 Pour être remplacée par la logique et la raison
 Qui reprendront le mandat de diriger ma vie
 Et d'extraire de mon être, tout ton poison.
-
-
-
+____
+<<<
+[verse]
+____
 Adieu,
 Que la sentence soit exécutée, sous l'œil des Dieux.
 Je n'oublierai jamais la porte que tu m'as ouverte,

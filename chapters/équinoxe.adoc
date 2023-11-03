@@ -26,9 +26,10 @@ Bâti sur ce qui s'appelait sensibilité,
 Pour constater qu'il est habité
 Par un ange et un démon qui scrutent mon âme,
 La contemplent.
-
-
-
+____
+<<<
+[verse]
+____
 Malheureusement, l'ivresse passée,
 Je constatais que mon temple était déserté,
 Celui-ci retournant à l'état de la pierre

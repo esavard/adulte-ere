@@ -27,8 +27,10 @@ Faisant surgir des pays mystérieux du néant.
 Nouveau prince, où il y a encore tout à dévaster,
 Il créera une rose pour la voir se faner,
 S'inventera une épopée pour sa vie expliquer.
-
-
+____
+<<<
+[verse]
+____
 Si beaux sont ses rêves,
 Lui accordant une courte trêve,
 Chassant un instant sa terrible destinée,

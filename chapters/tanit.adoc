@@ -28,7 +28,10 @@ Délicatement, tu me pris la main,
 Puis, m'indiquas au loin
 L'horizon où se préparait le lendemain,
 Me montrant ainsi que de mon rêve, c'était la fin.
-
+____
+<<<
+[verse]
+____
 Dès que nos merveilles
 Disparurent au profit du soleil,
 Maître de l'état de veille,

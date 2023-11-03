@@ -25,10 +25,10 @@ Ne pense pas aux épreuves, ni aux cerfs-volants,
 Et d'un bond,
 Passes cette porte dont les gonds
 Ne peuvent plus te retenir maintenant.
-
-
-
-
+____
+<<<
+[verse]
+____
 Si jamais tu tombes, ou même si debout tu te tiens,
 Je serai là, prêt à te tendre la main,
 Mais ce ne sera que demain.

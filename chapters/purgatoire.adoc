@@ -24,11 +24,10 @@ Pour s'envoler hors de portée de mes ennemis.
 Sur ma sépulture, on crache avec bassesse,
 Ma stature n'est plus cachée par la richesse
 D'un empire construit au coût de la tristesse.
-
-
-
-
-
+____
+<<<
+[verse]
+____
 Chaque jour, mes yeux aveugles revoient ma vie,
 Cette vision m'indique que je mérite d'être ici.
 Je suis mieux dans ma tombe moisie

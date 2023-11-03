@@ -23,11 +23,10 @@ Je suis seul sous la pluie avec mes rêves anéantis,
 Les autres sont partis car ils te croient morte.
 Ces idiots ne réalisent pas que tu n'es qu'endormie,
 Même la mort ne peut te retenir, tu es trop forte!
-
-
-
-
-
+____
+<<<
+[verse]
+____
 La pluie s'ajoute à mes larmes.
 Le ciel pleure aussi ma tendre bien-aimée,
 Ma jeune femme adorée.

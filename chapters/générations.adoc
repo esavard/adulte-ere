@@ -28,7 +28,10 @@ Je hurle, je crie,
 Mais, grain de sable que je suis,
 Je ne puis empêcher
 Notre planète de tourner.
-
+____
+<<<
+[verse]
+____
 De vous, j'ai hérité la vie,
 Et je m'incline devant votre sagesse d'un âge infini.
 Mais ce n'est pas moi,

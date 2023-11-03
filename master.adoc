@@ -42,6 +42,10 @@ include::chapters/prison_de_ténèbres.adoc[]
 
 include::chapters/baiser.adoc[]
 
+[%always]
+<<<
+[%always]
+<<<
 include::chapters/souverain_exilé.adoc[]
 
 include::chapters/jour_de_néant.adoc[]
@@ -57,7 +61,10 @@ include::chapters/prédateur_infatigable.adoc[]
 include::chapters/la_porte.adoc[]
 
 include::chapters/masque_pâle.adoc[]
-
+[%always]
+<<<
+[%always]
+<<<
 include::chapters/individuels.adoc[]
 
 include::chapters/amoureux_déchu.adoc[]
@@ -65,7 +72,10 @@ include::chapters/amoureux_déchu.adoc[]
 include::chapters/tanit.adoc[]
 
 include::chapters/chagrins_refoulés.adoc[]
-
+[%always]
+<<<
+[%always]
+<<<
 include::chapters/sentence.adoc[]
 
 include::chapters/vigie_de_cartier.adoc[]

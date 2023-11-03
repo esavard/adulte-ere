@@ -29,7 +29,10 @@ Consolez-vous,
 Ce n'est pas votre manque de passion
 Qui a fait que mon cœur n'est plus doux,
 Mon amour pour vous était trop fou.
-
+____
+<<<
+[verse]
+____
 Il ne me reste plus que le souvenir
 De votre beau sourire,
 C'est d'ailleurs ce qui me fait errer,

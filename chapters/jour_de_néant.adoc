@@ -23,12 +23,10 @@ Je frémis, car mon cœur se dissout
 Dans cette chute insensée,
 Qui peut prendre fin
 N'importe où.
-
-
-
-
-
-
+____
+<<<
+[verse]
+____
 Chute,
 Toujours plus bas, plus incertain.
 Chute,

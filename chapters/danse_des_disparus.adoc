@@ -27,8 +27,10 @@ La valse s'accélère alors qu'arrivent
 Les objets utiles de naguère,
 Abandonnés ou bien égarés,
 Joyeux compères qui éloignent le silence austère.
-
-
+____
+<<<
+[verse]
+____
 Voilà de nouveau le cortège de novembre,
 Dernier sursaut de vie,
 Que la dame blanche couvrira prochainement
