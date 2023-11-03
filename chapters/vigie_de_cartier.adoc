@@ -26,7 +26,7 @@ Qu'ils prospèrent en cette lande hospitalière.
 
 Une mince bande sombre, à peine visible à l'horizon,
 Me tira de mes réflexions.
-"Terre, messire Cartier, Terre!",
+&#x00AB;Terre, messire Cartier, Terre!&#x00BB;,
 Criais-je à mon capitaine, en-bas, sur le pont.
 ____
 <<<

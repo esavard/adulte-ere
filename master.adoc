@@ -83,7 +83,10 @@ include::chapters/vigie_de_cartier.adoc[]
 include::chapters/cornichon_superficiel.adoc[]
 
 include::chapters/vie_rose.adoc[]
-
+[%always]
+<<<
+[%always]
+<<<
 include::chapters/purgatoire.adoc[]
 
 include::chapters/mort_du_poète.adoc[]

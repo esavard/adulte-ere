@@ -1,5 +1,4 @@
 == La chanson de l'oublie
-
 [verse]
 ____
 Elle était la plus belle
@@ -18,7 +17,7 @@ Je parlais d'elle comme d'une vieille ennemie.
 Oubliant son nom et tout ce qu'elle m'apportait.
 
 Il y a deux semaines, mon chum m'a dit:
-"On va à la terrasse, il faut que tu l'oublies."
+&#x00AB;On va à la terrasse, il faut que tu l'oublies.&#x00BB;
 À la terrasse, assise juste en face,
 Je vois le sosie de mon ancienne garce.
 
@@ -33,8 +32,7 @@ ____
 L'autre jour, elle me téléphone,
 En me disant qu'elle s'ennuie de son homme.
 Je lui ai dit:
-"Ton homme est pas ici,
-J'pense qu'il est en Abitibi!"
+&#x00AB;Ton homme est pas ici! Va voir en Abitibi!&#x00BB;
 
 On s'est engueulé comme du poisson pourri,
 À la façon d'autrefois, avant que ce soit fini.
@@ -42,7 +40,7 @@ J'ai raccroché ben en maudit,
 Croyant que chez mon ami je serais à l'abri.
 
 Il y a une semaine, mon chum m'a dit:
-"On va au cinéma, il faut que tu l'oublies."
+&#x00AB;On va au cinéma, il faut que tu l'oublies.&#x00BB;
 Au cinéma, c'est l'histoire d'un bon gars:
 En voyant sa blonde, il ne se sauve pas!
 
