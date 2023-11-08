@@ -14,8 +14,8 @@ De tes bras tendus vers moi
 Me découvrant tes attraits sous ta toge diaphane,
 Je souhaite que jamais ton souvenir ne se fane.
 
-Doucement, à l'oreille, tu m'as soufflée:
-"Tout va bien, je suis arrivée."
+Doucement, à l'oreille, tu m'as soufflé:
+&#x00AB;Tout va bien, je suis arrivée.&#x00BB;
 Et alors, de cette terre ensommeillée
 Jaillirent des étoiles enflammées
 S'envolant vers le firmament,
@@ -36,7 +36,7 @@ Dès que nos merveilles
 Disparurent au profit du soleil,
 Maître de l'état de veille,
 Tu m'embrassas et me dis, avant de me laisser:
-"N'oublie pas, je suis fertilité et je puis tout créer."
+&#x00AB;N'oublie pas, je suis fertilité et je puis tout créer.&#x00BB;
 
 Comme une brume s'évapore au vent,
 Tu me quittas, tranquillement,
