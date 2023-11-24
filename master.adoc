@@ -82,21 +82,16 @@ include::chapters/trompé.adoc[]
 include::chapters/la_porte.adoc[]
 
 // Ironie
-include::chapters/cornichon_superficiel.adoc[]
-
 include::chapters/masque_pâle.adoc[]
 
-// Nature
-include::chapters/norouet.adoc[]
+include::chapters/cornichon_superficiel.adoc[]
 
+// Nature
 include::chapters/danse_des_disparus.adoc[]
 
-include::chapters/vie_rose.adoc[]
+include::chapters/norouet.adoc[]
 
-[%always]
-<<<
-[%always]
-<<<
+include::chapters/vie_rose.adoc[]
 
 // Romantisme
 include::chapters/cette_femme.adoc[]
