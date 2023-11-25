@@ -1,11 +1,15 @@
 = L'adulte ère
-:title: L'adulte ère : Recueil de vieilles poésies
+:title: L'adulte ère : Passage poétique au large des rivages d'une jeunesse vacillante
 :author: Paul Vardas
 :doctype: book
 :toc: macro
 :toc-title: Table des matières
 :lang: fr-CA
 :pdf-page-size: 5.75in x 8.75in
+// Only for epub
+ifeval::["{backend}" == "epub3"]
+:front-cover-image: images/front-cover.png
+endif::[]
 
 [%notitle]
 == Mentions légales
