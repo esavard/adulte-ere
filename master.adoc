@@ -75,22 +75,25 @@ include::chapters/dénoncés.adoc[]
 
 include::chapters/sentence.adoc[]
 
+[%always]
+<<<
+[%always]
+<<<
 include::chapters/trompé.adoc[]
-
-[%always]
-<<<
-[%always]
-<<<
 
 // Espoir
 include::chapters/la_porte.adoc[]
 
 // Ironie
-include::chapters/masque_pâle.adoc[]
-
 include::chapters/cornichon_superficiel.adoc[]
 
+include::chapters/masque_pâle.adoc[]
+
 // Nature
+[%always]
+<<<
+[%always]
+<<<
 include::chapters/danse_des_disparus.adoc[]
 
 include::chapters/norouet.adoc[]
