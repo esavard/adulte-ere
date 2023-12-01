@@ -1,11 +1,11 @@
 L'ADULTE ÈRE : Passage poétique au large des rivages d'une jeunesse vacillante +
 (C) Paul Vardas +
-Publication décembre 2023, première édition
+Décembre 2023, première édition
 
 Ce recueil est protégé par une licence Creative Commons
 Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). Vous êtes libre de partager, copier, distribuer et adapter les poèmes à des fins non commerciales, à condition d'attribuer l'auteur original (Paul Vardas). Pour en savoir plus sur cette licence, visitez le site Web de Creative Commons à l'adresse suivante : https://creativecommons.org/licenses/by-nc/4.0/
 
-ISBN : XXX-XXXXXXXXX-X
+ISBN : {isbn}
 
 Dépôt légal: 4e trimestre 2023 +
 Bibliothèque et Archives nationales du Québec +
@@ -14,4 +14,5 @@ Bibliothèque et Archives Canada
 Pour toute demande de droits d'utilisation, de traduction ou d'autres demandes, veuillez contacter l'auteur à l'adresse suivante: +
 vardaspaul@gmail.com.
 
-Ce livre a été auto-édité par l'auteur.
+Publié et auto-édité par Étienne Savard (Paul Vardas) +
+2023, Sherbrooke, Québec, Canada.

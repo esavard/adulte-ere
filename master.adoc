@@ -6,9 +6,13 @@
 :toc-title: Table des matières
 :lang: fr-CA
 :pdf-page-size: 5.75in x 8.75in
-// Only for epub
+// Conditional depending on the output media
 ifeval::["{backend}" == "epub3"]
 :front-cover-image: images/front-cover.png
+:isbn: 978-2-9822178-1-2
+endif::[]
+ifeval::["{backend}" == "pdf"]
+:isbn: 978-2-9822178-0-5
 endif::[]
 
 [%notitle]
@@ -32,41 +36,32 @@ include::introduction.adoc[]
 [%always]
 <<<
 
-// Solitude
 include::chapters/équinoxe.adoc[]
 
 include::chapters/abandonné.adoc[]
 
-include::chapters/solitaire.adoc[]
-
 include::chapters/individuels.adoc[]
 
-// Chagrin et désespoir
+include::chapters/solitaire.adoc[]
+
+include::chapters/prison_de_ténèbres.adoc[]
+
 include::chapters/désir_funèbre.adoc[]
 
 include::chapters/amoureux_déchu.adoc[]
 
 include::chapters/automne.adoc[]
 
-include::chapters/prison_de_ténèbres.adoc[]
-
-include::chapters/navigateur.adoc[]
-
 include::chapters/purgatoire.adoc[]
 
 include::chapters/chagrins_refoulés.adoc[]
 
-[%always]
-<<<
-[%always]
-<<<
+include::chapters/navigateur.adoc[]
 
-// Finalité et mort
 include::chapters/jour_de_néant.adoc[]
 
 include::chapters/donjon.adoc[]
 
-// Révolte
 include::chapters/la_voix.adoc[]
 
 include::chapters/prédateur_infatigable.adoc[]
@@ -75,63 +70,44 @@ include::chapters/dénoncés.adoc[]
 
 include::chapters/sentence.adoc[]
 
-[%always]
-<<<
-[%always]
-<<<
 include::chapters/trompé.adoc[]
 
-// Espoir
 include::chapters/la_porte.adoc[]
 
-// Ironie
 include::chapters/cornichon_superficiel.adoc[]
 
-include::chapters/masque_pâle.adoc[]
-
-// Nature
-[%always]
-<<<
-[%always]
-<<<
 include::chapters/danse_des_disparus.adoc[]
+
+include::chapters/masque_pâle.adoc[]
 
 include::chapters/norouet.adoc[]
 
 include::chapters/vie_rose.adoc[]
 
-// Romantisme
 include::chapters/cette_femme.adoc[]
 
 include::chapters/animal_sauvage.adoc[]
 
 include::chapters/générations.adoc[]
 
+include::chapters/mon_père.adoc[]
+
 include::chapters/mort_du_poète.adoc[]
 
 include::chapters/vigie_de_cartier.adoc[]
 
-include::chapters/mon_père.adoc[]
-
 include::chapters/étrangère.adoc[]
+
+include::chapters/sommeil.adoc[]
 
 include::chapters/tanit.adoc[]
 
 include::chapters/souverain_exilé.adoc[]
 
-include::chapters/sommeil.adoc[]
-
-[%always]
-<<<
-[%always]
-<<<
-
-// Amour
 include::chapters/chanson_oublie.adoc[]
 
 include::chapters/baiser.adoc[]
 
-// Passage du temps
 include::chapters/éternité.adoc[]
 
 include::chapters/âge.adoc[]
