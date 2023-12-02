@@ -3,7 +3,7 @@
 [verse]
 ____
 Elle m'a quitté, elle est partie
-Et depuis, j'ai renié même la vie
+Et depuis, j'ai renié même la vie.
 Refusant de croire
 Que notre histoire était finie.
 Jamais plus le miroir
@@ -33,9 +33,9 @@ ____
 <<<
 [verse]
 ____
-Maintenant que je suis dans la noirceur,
+Maintenant que je suis dans la noirceur
 Je ne fais que regretter cette brève lueur.
-L'automne est là,
-J'ai froid et personne ne me réchauffera,
+L'automne est là
+J'ai froid et personne ne me réchauffera
 Car, de l'amour, j'ai à nouveau peur.
 ____
