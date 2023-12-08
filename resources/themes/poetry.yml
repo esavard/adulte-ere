@@ -78,10 +78,10 @@ footer:
     right:
       content: '{page-number}'
     left:
-      content: '{doctitle}'
+      content: '{chapter-title}'
   verso:
     columns: "<20% =0% >80%"
     left:
       content: '{page-number}'
     right:
-      content: '{doctitle}'
+      content: '{chapter-title}'

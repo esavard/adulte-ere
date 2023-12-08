@@ -6,6 +6,7 @@
 :toc-title: Table des matières
 :lang: fr-CA
 :pdf-page-size: 5.75in x 8.75in
+
 // Conditional depending on the output media
 ifeval::["{backend}" == "epub3"]
 :front-cover-image: images/front-cover.png
@@ -21,20 +22,18 @@ include::mentions_legales.adoc[]
 
 == Dédidace
 include::dedidace.adoc[]
+ifeval::["{backend}" == "pdf"]
+include::chapters/blank.adoc[]
+endif::[]
 
-[%always]
-<<<
-[%always]
-<<<
 toc::[]
 
 == Introduction
 include::introduction.adoc[]
 
-[%always]
-<<<
-[%always]
-<<<
+ifeval::["{backend}" == "pdf"]
+include::chapters/blank.adoc[]
+endif::[]
 
 include::chapters/équinoxe.adoc[]
 
@@ -116,7 +115,7 @@ include::chapters/temps.adoc[]
 
 include::chapters/substance.adoc[]
 
-[%always]
-<<<
-[%always]
-<<<
+ifeval::["{backend}" == "pdf"]
+// Insert a blank page to finish on an even page number
+include::chapters/blank.adoc[]
+endif::[]
