@@ -1,12 +1,4 @@
 License
 -------
 
-This work is placed in the public domain. It belongs to mankind and to
-nobody in particular. Use it to write poetry, arts, science books and
-novels. You shall not use it to spread hatred or to write bad things.
-
-Just in case, the author does not take any responsibility about any bad 
-things that might happen when using this template. Hopefully this will 
-not happen.
-
-Use, share, transform, as much as you want. I hope you find it useful!
+Ce recueil est protégé par une licence Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). Vous êtes libre de partager, copier, distribuer et adapter les poèmes à des fins non commerciales, à condition d’attribuer l’auteur original (Paul Vardas). Pour en savoir plus sur cette licence, visitez le site Web de Creative Commons à l’adresse suivante : https://creativecommons.org/licenses/by-nc/4.0/
